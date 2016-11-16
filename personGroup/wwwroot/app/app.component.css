@@ -1,0 +1,16 @@
+﻿.site-body {
+    max-width: 100%;
+    overflow-x: hidden;
+    transform-origin: 50% 0%;
+    -webkit-transform-origin: 50% 0%;
+    padding-top: 15px;
+    padding-bottom: 24px;
+}
+
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}

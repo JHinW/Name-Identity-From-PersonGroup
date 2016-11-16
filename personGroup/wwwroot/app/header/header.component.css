@@ -1,0 +1,73 @@
+﻿#header {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    padding-bottom: 50px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    -webkit-flex-direction: row;
+    -webkit-justify-content: center;
+    -webkit-align-items: center;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    -ms-justify-content: center;
+    -ms-align-items: center;
+}
+
+#headerimage {
+    height: 87px;
+    width: 80px;
+    float: left;
+    background: url(wwwroot/app/common/Images/photo-icon.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border: 0;
+}
+
+#headertext {
+    margin-left: 15px;
+    text-align: left;
+}
+
+#picmeh1id {
+    padding-bottom: 0;
+    font-weight: 100;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-family: Segoe UI Light,CustomSegoeUILight,Arial;
+    font-size: 58px;
+    color: #f8f7bb;
+    margin-left: 0;
+    color: #fff;
+}
+
+h1 {
+    margin: .67em 0;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+
+.subheader {
+    font-family: Segoe UI Semibold,CustomSegoeSemibold,Arial;
+    font-size: 18px;
+    color: #f8f7bb;
+    color: #fff;
+}
+
+#demoSpan {
+    color: #e06826;
+    color: #dd5900;
+}

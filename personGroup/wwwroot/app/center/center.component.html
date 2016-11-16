@@ -1,0 +1,91 @@
+﻿<div id="selectImage" [style.display] ="homeDisplayStyle">
+    <script type="text/javascript">
+        $(window).load(function () {
+            $("#searchBing").get(0).reset(); //clear form data on page load
+        });
+    </script>
+
+    <form id="searchBing" role="search" action="/" method="get">
+        <div class="input-group" style="background-color: white">
+            <span class="input-group-addon" style="padding: 0px 0px 0px 0px; border: none">
+                <img id="bLogo" class="" src="wwwroot/app/common/Images/bing2.png" data-bm="3">
+            </span>
+            <input type="search" name="q" style="border-style: none;" class="form-control" placeholder="Search Faces…" value="" id="searchText">
+            <div class="input-group-btn">
+                <input tabindex="0" title="Search" class="b_searchboxSubmit" id="searchsubmit" type="submit">
+            </div>
+        </div>
+    </form>
+
+    <div id="imageDiv" class="ImageSelector" style="opacity: 1;" #canvas>
+        <div draggable id="imageList"
+             class="ScrollArea notSelectedImage"
+             style="width: 3500px; transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1); transition-duration: 0ms; transform: translate(-750px, 0px) translateZ(0px);">
+            <img src="{{img.imgUrl}}" [class.selectedImage]="img.isSelected" *ngFor="let img of images;trackBy:identify">
+        </div>
+
+        <div id="SelectorBox">
+            <a id="attributionId" class="imgAttribution" href="#" target="_blank"></a>
+        </div>
+        <div id="SelectorTag">
+            <button type="button" class="btn btn-default" (click)="useThisPhotoClick()">
+                <span class="glyphicon glyphicon-circle-arrow-right" style="margin-right: 4px" aria-hidden="true"></span>Use this photo
+            </button>
+        </div>
+        <div class="iScrollHorizontalScrollbar iScrollLoneScrollbar" style="position: absolute; z-index: 9999; height: 7px; left: 2px; right: 2px; bottom: 0px; overflow: hidden; pointer-events: none;"><div class="iScrollIndicator" style="box-sizing: border-box; position: absolute; background: rgba(0, 0, 0, 0.498039); border: 1px solid rgba(255, 255, 255, 0.901961); border-radius: 3px; height: 100%; transition-duration: 0ms; display: block; width: 17px; transform: translate(53px, 0px) translateZ(0px); transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1);"></div></div>
+    </div>
+    <label id="uploadLabel" class="center-block" style="width: 230px;">
+        <button id="uploadFileId" class="btn btn-default action" (click)="uploadBtnClick()">
+            <span>
+                <img src="wwwroot/app/common/Images/browse-icon.svg" style="width: 25px; height: 25px">
+            </span>
+            Use your own photo
+        </button>
+        <input  id="uploadBtn" type="file" accept="image/*"
+               #fileInput
+               ngFileSelect
+               [options]="options"
+               (onUpload)="handleUpload($event)"
+               (change)="onFileChange($event)"
+               style="visibility: hidden; width: 0px; height: 0px">
+    </label>
+</div>
+
+<div id="results" hidden="" [style.display] ="detailDisplayStyle">
+    <div id="analyzingLabel" class="bodyfont" style="visibility: hidden;">
+        <span><img id="loadingImage" src="wwwroot/common/Images/ajax-loader_1.gif"></span>Analyzing...
+    </div>
+    <div id="imageSpacer">
+        <div id="errSection" *ngIf="error !=''">{{error}}</div>
+        <textarea id="outputSection"  cols="42" rows="12" style="position:relative;text-indent: -40px;" spellcheck='false' *ngIf="candidates.length > 0">
+            {{candidates[0] | json}}
+        </textarea>
+    </div>
+    <div id="thumbContainer" style="padding-left: 0px; position: relative;">
+        <img id="thumbnail" src="{{selectedImage?.imgUrl}}" class="img-responsive center-block" #thumbnail>
+        <a id="attributionMainId" class="imgAttribution" href="" target="_blank" style="display: block; left: 137px;"></a>
+        <div id="faces" [style.display] ="'none'"><div></div><div data-html="true" class="child face-tooltip big-face-tooltip " id="rect5653" style="left: 348px; top: 145px; width: 103px; height: 103px; border: 1px solid white; position: absolute;" data-original-title="" title="" aria-describedby="tooltip704423"></div>
+        <div class="tooltip fade top in" role="tooltip" id="tooltip704423" style="top: 61px; left: 348.5px; display: block;">
+            <div class="tooltip-arrow" style="left: 50%;"></div>
+            <div class="tooltip-inner"><div><span><img src="https://how-old.net/Images/icon-gender-female.png" class="big-face-tooltip"></span>36</div></div></div></div>
+    </div>
+    <p id="improvingLabel" class="help-block center-block bodyfont" style="font-weight: 100; font-size: 13px; text-align: center; visibility: visible; margin-bottom: 20px;">
+        Sorry if we didn’t quite get it right -
+        <a class="bodyfont link-underline" href="/goto?url=aka.ms/faceapi" target="_blank" style="font-weight: 100; font-size: 13px; text-decoration: underline">we are still improving this feature.</a>.
+    </p>
+
+    <div id="gameLauncher" hidden="" style="display: none;">
+        <button id="gameBtn" class="btn btn-default center-block action">
+            Get a human opinion
+        </button>
+        <div id="gameConjunction" class="bodyfont">or</div>
+    </div>
+
+
+    <button id="tryAnotherBtn" class="btn btn-default center-block action" (click)="tryAnotherPhotoClick()">
+        Try Another Photo!
+    </button>
+    <div id="jsonEventDiv" style="margin-top: 30px; display: none;" hidden="">
+        <pre id="jsonEvent" style="text-align: left"></pre>
+    </div>
+</div>

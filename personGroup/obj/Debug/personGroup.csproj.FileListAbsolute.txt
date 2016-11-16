@@ -1,0 +1,346 @@
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\ApplicationInsights.config
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\roslyn\csc.exe
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\roslyn\System.Collections.Immutable.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\roslyn\vbc.exe
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\roslyn\VBCSCompiler.exe
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\roslyn\VBCSCompiler.exe.config
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\personGroup.dll.config
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\personGroup.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\personGroup.pdb
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Antlr3.Runtime.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\EntityFramework.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\EntityFramework.SqlServer.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.AI.Web.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.AI.WindowsServer.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.ApplicationInsights.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.Security.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.Security.Google.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Web.Infrastructure.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Newtonsoft.Json.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Owin.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Net.Http.Formatting.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.Helpers.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.Http.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.Http.Owin.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.Http.WebHost.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.Mvc.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.Optimization.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.Razor.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.WebPages.Deployment.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.WebPages.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.WebPages.Razor.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\WebGrease.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.AI.Web.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.AI.WindowsServer.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.ApplicationInsights.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Newtonsoft.Json.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Net.Http.Formatting.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.Helpers.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.Http.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.Http.WebHost.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.Mvc.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.Optimization.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.Razor.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.WebPages.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.WebPages.Deployment.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.WebPages.Razor.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Antlr3.Runtime.pdb
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\EntityFramework.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\EntityFramework.SqlServer.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.Security.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.Security.Google.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\bin\System.Web.Http.Owin.xml
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\obj\Debug\personGroup.dll
+c:\users\v-jiwag\documents\visual studio 2015\Projects\personGroup\personGroup\obj\Debug\personGroup.pdb
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\ApplicationInsights.config
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\roslyn\csc.exe
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\roslyn\vbc.exe
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\roslyn\VBCSCompiler.exe
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\personGroup.dll.config
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\personGroup.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\personGroup.pdb
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Antlr3.Runtime.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\EntityFramework.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\EntityFramework.SqlServer.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.AI.Web.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.ApplicationInsights.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Newtonsoft.Json.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Owin.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Net.Http.Formatting.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.Helpers.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.Http.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.Http.Owin.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.Http.WebHost.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.Mvc.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.Optimization.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.Razor.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.WebPages.Deployment.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.WebPages.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.WebPages.Razor.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\WebGrease.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.AI.Web.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.ApplicationInsights.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Newtonsoft.Json.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Net.Http.Formatting.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.Helpers.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.Http.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.Http.WebHost.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.Mvc.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.Optimization.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.Razor.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.WebPages.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.WebPages.Deployment.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.WebPages.Razor.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Antlr3.Runtime.pdb
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\EntityFramework.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\EntityFramework.SqlServer.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\bin\System.Web.Http.Owin.xml
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\obj\Debug\personGroup.csprojResolveAssemblyReference.cache
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\obj\Debug\personGroup.dll
+C:\Users\v-jiwag\Desktop\data\personGroup\personGroup\personGroup\obj\Debug\personGroup.pdb
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\obj\Debug\personGroup.csprojResolveAssemblyReference.cache
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\ApplicationInsights.config
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\roslyn\csc.exe
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\roslyn\System.Collections.Immutable.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\roslyn\System.Reflection.Metadata.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\roslyn\vbc.exe
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\roslyn\VBCSCompiler.exe
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\roslyn\VBCSCompiler.exe.config
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\personGroup.dll.config
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\personGroup.XML
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\personGroup.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\personGroup.pdb
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Antlr3.Runtime.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\EntityFramework.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\EntityFramework.SqlServer.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AI.Agent.Intercept.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AI.DependencyCollector.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AI.Web.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AI.WindowsServer.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.ApplicationInsights.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Authorization.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Http.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Routing.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.StaticFiles.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.DotNet.InternalAbstractions.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.DependencyModel.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.Localization.Abstractions.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.Localization.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.ObjectPool.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.Options.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.PlatformAbstractions.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.Primitives.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.WebEncoders.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Net.Http.Headers.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.Facebook.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.Google.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.OAuth.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.Twitter.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.ProjectOxford.Face.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Newtonsoft.Json.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Owin.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Swashbuckle.Core.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Swashbuckle.Swagger.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Swashbuckle.SwaggerGen.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Swashbuckle.SwaggerUi.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Buffers.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.ComponentModel.Primitives.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.ComponentModel.TypeConverter.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Diagnostics.DiagnosticSource.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Net.Http.Formatting.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Text.Encodings.Web.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.Helpers.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.Http.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.Http.Owin.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.Http.WebHost.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.Mvc.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.Optimization.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.Razor.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.WebPages.Deployment.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.WebPages.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.WebPages.Razor.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\WebActivatorEx.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\WebGrease.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.ProjectOxford.Face.pdb
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AI.DependencyCollector.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AI.Web.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AI.WindowsServer.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.ApplicationInsights.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Authorization.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Http.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Routing.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.StaticFiles.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.Localization.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.Localization.Abstractions.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.ObjectPool.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.Options.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.PlatformAbstractions.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.Primitives.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Extensions.WebEncoders.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Net.Http.Headers.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Newtonsoft.Json.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Diagnostics.DiagnosticSource.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Text.Encodings.Web.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Net.Http.Formatting.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.Helpers.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.Http.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.Http.WebHost.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.Mvc.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.Optimization.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.Razor.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.WebPages.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.WebPages.Deployment.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.WebPages.Razor.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Antlr3.Runtime.pdb
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\EntityFramework.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\EntityFramework.SqlServer.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.Google.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\bin\System.Web.Http.Owin.xml
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\obj\Debug\personGroup.dll
+E:\GitHub\learning\twinsornot\personGroup\personGroup\personGroup\obj\Debug\personGroup.pdb
